@@ -1,0 +1,19 @@
+.contact-form-container {
+    border: 1px solid #fff; /* Example border color */
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(50, 50, 50, 50);
+   
+  }
+  .contact-container {
+    border: 1px solid #fff; 
+    border-radius: 0.5rem;
+    width: 40px;
+    
+  }
+  .re{
+    text-align: center;
+  }
+  
+  
+  
+  

@@ -1,0 +1,17 @@
+.wrapping {
+  display: flex;
+  flex-direction: column;
+  gap: 9rem;
+  padding: 2rem 8rem;
+  margin-top: 3rem;
+  line-height: 27px;
+}
+
+.wrapping .content {
+  display: flex;
+  flex-direction: row;
+  gap: 16rem;
+}
+.wrapping ul {
+  margin-left: 24rem;
+}

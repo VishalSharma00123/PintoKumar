@@ -1,0 +1,21 @@
+.flex {
+  display: flex;
+  position: relative;
+  top: -28rem !important ;
+  display: flex;
+  margin-bottom: -30rem !important;
+}
+.text_align {
+  position: relative;
+  /* max-width: 34rem; */
+  /* left: 27rem; */
+  width: 49rem !important;
+  left: 15rem !important;
+  top: 34rem !important;
+  padding: 0 11rem !important;
+  line-height: 28px !important;
+}
+.container-u {
+  display: flex;
+  margin-left: 5rem;
+}

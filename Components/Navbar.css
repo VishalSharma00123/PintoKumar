@@ -1,0 +1,24 @@
+/* Navbar.css */
+
+/* Add margin to the left of the navbar items to push them to the right */
+.navbar-nav {
+    margin-left: auto; /* This will push the items to the right */
+    margin-right: 3rem;
+    font-weight: 500;
+    font-size: larger;
+    /* Add 3rem right margin for spacing */
+  }
+  
+  
+
+  /* Optional: Adjust the spacing of the navbar items vertically */
+  .navbar-nav .nav-item {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    color: #565387;
+  }
+  .navbar-nav .nav-link {
+    color: #565387;
+  }
+  
+  

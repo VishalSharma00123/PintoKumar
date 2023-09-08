@@ -1,0 +1,74 @@
+/* App.css */
+
+.container-5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+  margin-top: 8rem;
+  font-weight: 20px;
+  font-family: sans-serif;
+}
+
+.bloc-tabs {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tabs-1 {
+  font-size: 20px;
+  background: transparent;
+  border: none;
+  outline: none;
+  text-align: center;
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.4);
+  width: 403px;
+  border-bottom: 2px solid transparent;
+  width: 416px;
+}
+
+.tabs-1:hover {
+  border-bottom: 2px solid #0b4363;
+
+  color: black;
+}
+
+.active-tabs-1 {
+  padding: 0 8rem;
+}
+.content {
+  display: none;
+  padding: 20px;
+  background: white;
+  border: 1px solid #ccc;
+  border-top: none;
+  width: 100%;
+  max-width: 1247px;
+  margin-top: 10px;
+  transition: opacity 0.3s ease;
+}
+
+.active-content {
+  display: flex;
+}
+
+.right img {
+  width: 26rem;
+  height: 20rem;
+  object-fit: cover;
+  padding-left: 5rem;
+}
+
+.left {
+  width: 100%;
+  position: relative;
+  margin: 2rem 0;
+}
+.text-center {
+  font-weight: 600;
+  position: relative;
+  right: 3rem;
+  margin-bottom: 1rem;
+}
